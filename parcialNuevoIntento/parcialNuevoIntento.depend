@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1635293768 source:c:\users\gab_s\documents\codeblockstp\parcialnuevointento\autos.c
+	"autos.h"
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"colores.h"
+	"marcas.h"
+	<string.h>
+	"trabajos.h"
+	"clientes.h"
+
+1635288733 source:c:\users\gab_s\documents\codeblockstp\parcialnuevointento\clientes.c
+	"clientes.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635187997 source:c:\users\gab_s\documents\codeblockstp\parcialnuevointento\fechas.c
+	"fechas.h"
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1635292102 source:c:\users\gab_s\documents\codeblockstp\parcialnuevointento\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"autos.h"
+	"servicios.h"
+	<string.h>
+	<ctype.h>
+
+1635187330 c:\users\gab_s\documents\codeblockstp\parcialnuevointento\validaciones.h
+	"autos.h"
+	"servicios.h"
+
+1635041735 source:c:\users\gab_s\documents\codeblockstp\parcialnuevointento\colores.c
+	"colores.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635042040 c:\users\gab_s\documents\codeblockstp\parcialnuevointento\colores.h
+
+1635288826 source:c:\users\gab_s\documents\codeblockstp\parcialnuevointento\marcas.c
+	"marcas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635216325 c:\users\gab_s\documents\codeblockstp\parcialnuevointento\marcas.h
+
+1635186412 source:c:\users\gab_s\documents\codeblockstp\parcialnuevointento\servicios.c
+	"servicios.h"
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	<string.h>
+
+1635186456 c:\users\gab_s\documents\codeblockstp\parcialnuevointento\servicios.h
+
+1635293499 source:c:\users\gab_s\documents\codeblockstp\parcialnuevointento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"marcas.h"
+	"colores.h"
+	"servicios.h"
+	"autos.h"
+	"fechas.h"
+	"trabajos.h"
+	"clientes.h"
+
+1635293810 c:\users\gab_s\documents\codeblockstp\parcialnuevointento\autos.h
+	"colores.h"
+	"marcas.h"
+
+1635187453 c:\users\gab_s\documents\codeblockstp\parcialnuevointento\fechas.h
+
+1635214299 c:\users\gab_s\documents\codeblockstp\parcialnuevointento\trabajos.h
+	"fechas.h"
+	"colores.h"
+	"marcas.h"
+	"servicios.h"
+	"autos.h"
+
+1635217471 source:c:\users\gab_s\documents\codeblockstp\parcialnuevointento\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajos.h"
+	"servicios.h"
+	"autos.h"
+	"validaciones.h"
+	"fechas.h"
+
+1635287274 c:\users\gab_s\documents\codeblockstp\parcialnuevointento\clientes.h
+
+1635284324 source:c:\users\gab_s\documents\codeblockstp\parcialnuevointento\hardcodeardatos.c
+	"hardCodearDatos.h"
+	<stdio.h>
+	<stdlib.h>
+
+1635279304 c:\users\gab_s\documents\codeblockstp\parcialnuevointento\hardcodeardatos.h
+	"trabajos.h"
+	"fechas.h"
+
+1635342914 source:c:\users\gab_s\desktop\parcialnuevointento\clientes.c
+	"clientes.h"
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635344646 c:\users\gab_s\desktop\parcialnuevointento\clientes.h
+
+1635340653 c:\users\gab_s\desktop\parcialnuevointento\validaciones.h
+	"autos.h"
+	"servicios.h"
+	"clientes.h"
+
+1635344578 c:\users\gab_s\desktop\parcialnuevointento\autos.h
+	"colores.h"
+	"marcas.h"
+	"clientes.h"
+
+1635042040 c:\users\gab_s\desktop\parcialnuevointento\colores.h
+
+1635216325 c:\users\gab_s\desktop\parcialnuevointento\marcas.h
+
+1635186456 c:\users\gab_s\desktop\parcialnuevointento\servicios.h
+
+1635041735 source:c:\users\gab_s\desktop\parcialnuevointento\colores.c
+	"colores.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635187997 source:c:\users\gab_s\desktop\parcialnuevointento\fechas.c
+	"fechas.h"
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+
+1635187453 c:\users\gab_s\desktop\parcialnuevointento\fechas.h
+
+1635345156 source:c:\users\gab_s\desktop\parcialnuevointento\hardcodeardatos.c
+	"hardCodearDatos.h"
+	<stdio.h>
+	<stdlib.h>
+
+1635344639 c:\users\gab_s\desktop\parcialnuevointento\hardcodeardatos.h
+	"trabajos.h"
+	"fechas.h"
+
+1635343951 c:\users\gab_s\desktop\parcialnuevointento\trabajos.h
+	"fechas.h"
+	"colores.h"
+	"marcas.h"
+	"servicios.h"
+	"autos.h"
+
+1635344697 source:c:\users\gab_s\desktop\parcialnuevointento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"marcas.h"
+	"colores.h"
+	"servicios.h"
+	"autos.h"
+	"fechas.h"
+	"trabajos.h"
+	"clientes.h"
+	"hardCodearDatos.h"
+
+1635288826 source:c:\users\gab_s\desktop\parcialnuevointento\marcas.c
+	"marcas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635186412 source:c:\users\gab_s\desktop\parcialnuevointento\servicios.c
+	"servicios.h"
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	<string.h>
+
+1635344892 source:c:\users\gab_s\desktop\parcialnuevointento\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajos.h"
+	"servicios.h"
+	"autos.h"
+	"validaciones.h"
+	"fechas.h"
+
+1635340190 source:c:\users\gab_s\desktop\parcialnuevointento\validaciones.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	"autos.h"
+	"servicios.h"
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+
+1635344179 source:c:\users\gab_s\desktop\parcialnuevointento\autos.c
+	"autos.h"
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	"colores.h"
+	"marcas.h"
+	<string.h>
+	"trabajos.h"
+	"clientes.h"
+
